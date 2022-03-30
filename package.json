@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./practice/02-palyginimai.js",
+    "dev": "nodemon ./practice/03-other.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
